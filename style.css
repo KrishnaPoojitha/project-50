@@ -1,0 +1,30 @@
+h1{
+    color:red;
+}
+.bodyimg{
+    background-color:grey;
+    color:blue;
+    font-size:x-large;
+}
+.grid img{
+    border: solid;
+    border-radius:2px;
+} 
+.origami{
+    border:2px solid;
+    background-color:white;
+    font-family:fantasy;
+    text-align:center;
+    justify-content:horizontal;
+}
+.menu{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:black;
+    font-size:x-large;
+    font-family:sans-serif;
+    color:white;
+}
+body{
+    background-color:grey;
+}
